@@ -1,7 +1,7 @@
 TwilioTwoFactorAuth
 ===================
 Two Factor Auth is becoming a tool used to verify individuals against online accounts and profiles. 
-It pairs something you have against something you know - a Mobile phone and a passord. 
+It pairs something you have against something you know - a Mobile phone and a password. 
 
 This code makes use of Twilio - http://www.Twilio.com to generate a SMS message or voice call 
 with a password you can use that you can use to authenticate that user is who they claim to be. 
